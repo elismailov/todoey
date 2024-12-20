@@ -6,7 +6,6 @@ To run the project on your local machine, follow these steps:
 Clone this repository to your local machine:
 ```bash
 git clone https://github.com/elismailov/todoey.git
-cd todoey
 ```
 
 ### **2. Install CocoaPods Dependencies**
